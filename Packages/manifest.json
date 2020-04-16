@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.csound.csoundunity": "https://github.com/giovannibedetti/CsoundUnityPackage.git",
     "com.unity.ide.rider": "1.1.4",
     "com.unity.ide.vscode": "1.1.4",
     "com.unity.test-framework": "1.1.13",
@@ -16,5 +17,11 @@
     "com.unity.modules.unitywebrequestaudio": "1.0.0",
     "com.unity.modules.unitywebrequesttexture": "1.0.0",
     "com.unity.modules.unitywebrequestwww": "1.0.0"
+  },
+  "lock": {
+    "com.csound.csoundunity": {
+      "revision": "HEAD",
+      "hash": "16610ad0bf82ac38d688acdd72493c5f42e312d9"
+    }
   }
 }
