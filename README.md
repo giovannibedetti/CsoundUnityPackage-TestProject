@@ -1,4 +1,5 @@
-# Csound Unity Package
+# Csound Unity Package Test Project
+
 Csound as a Unity Package
 
 Code coming from https://github.com/rorywalsh/CsoundUnity
